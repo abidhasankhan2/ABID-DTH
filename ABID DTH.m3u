@@ -228,5 +228,41 @@ http://xtv.ooo:8080/Sehrish/12345/245893
 #EXTINF:-76 tvg-logo="https://i.ibb.co/5Mxx94r/20240502-075337.png"group-title="MUSIC CHANNEL", ZOOM
 http://xtv.ooo:8080/Sehrish/12345/245893
 
-#EXTINF:-77 tvg-logo="https://i.ibb.co/V27XZ1z/20240430-221623.png"group-title="MUSIC CHANNEL", ANIMAL PLANET
+#EXTINF:-77 tvg-logo="https://i.ibb.co/V27XZ1z/20240430-221623.png"group-title="INFOTAINMENT CHANNEL", ANIMAL PLANET
+http://xtv.ooo:8080/Sehrish/12345/245893
+
+#EXTINF:-78 tvg-logo="https://i.ibb.co/W3hP8P8/20240430-222528.png"group-title="INFOTAINMENT CHANNEL", NASA TV
+http://xtv.ooo:8080/Sehrish/12345/245893
+
+#EXTINF:-79 tvg-logo="https://i.ibb.co/Lh3gfCd/20240430-222451.png"group-title="INFOTAINMENT CHANNEL", LOVE NATURE 4K
+http://xtv.ooo:8080/Sehrish/12345/245893
+
+#EXTINF:-80 tvg-logo="https://i.ibb.co/7yM0Fhf/20240501-232449.png"group-title="INFOTAINMENT CHANNEL", DISCOVERY BANGLA
+http://xtv.ooo:8080/Sehrish/12345/245893
+
+#EXTINF:-81 tvg-logo="https://i.ibb.co/PQ81XB6/20240430-222226.png"group-title="INFOTAINMENT CHANNEL", DISCOVERY HD
+http://xtv.ooo:8080/Sehrish/12345/245893
+
+#EXTINF:-82 tvg-logo="https://i.ibb.co/p2yk94b/20240430-221707.png"group-title="INFOTAINMENT CHANNEL", NATIONAL GEO GRAPHIC
+http://xtv.ooo:8080/Sehrish/12345/245893
+
+#EXTINF:-83 tvg-logo="https://i.ibb.co/HpJ9WcK/20240502-075405.png"group-title="INFOTAINMENT CHANNEL", NAT GEO WILD
+http://xtv.ooo:8080/Sehrish/12345/245893
+
+#EXTINF:-84 tvg-logo="https://i.ibb.co/Jqrs3gV/20240502-075153.png"group-title="INFOTAINMENT CHANNEL", DISCOVERY SCIENCE 
+http://xtv.ooo:8080/Sehrish/12345/245893
+
+#EXTINF:-85 tvg-logo="https://i.ibb.co/M1S2tp4/20240502-084045.png"group-title="INFOTAINMENT CHANNEL", SONY BBC EARTH
+http://xtv.ooo:8080/Sehrish/12345/245893
+
+#EXTINF:-86 tvg-logo="https://i.ibb.co/F5hYbmz/20240501-212824.png"group-title="INFOTAINMENT CHANNEL", WEATHER SPY
+http://xtv.ooo:8080/Sehrish/12345/245893
+
+#EXTINF:-87 tvg-logo="https://i.ibb.co/zQgkSQz/20240501-212500.png"group-title="INFOTAINMENT CHANNEL", SAFARI TV
+http://xtv.ooo:8080/Sehrish/12345/245893
+
+#EXTINF:-88 tvg-logo="https://i.ibb.co/RYJ7nr1/20240501-215450.png"group-title="INFOTAINMENT CHANNEL", WILD EARTH HD
+http://xtv.ooo:8080/Sehrish/12345/245893
+
+#EXTINF:-89 tvg-logo="https://i.ibb.co/vkgBxd8/20240430-221046.png"group-title="SPORTS CHANNEL", T SPORTS 
 http://xtv.ooo:8080/Sehrish/12345/245893
