@@ -1,172 +1,172 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Bc71zKf/20240430-205101.png"group-title="BANGLADASHI CHANNEL", BTV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Bc71zKf/240430-205101.png"group-title="BANGLADASHI CHANNEL", BTV HD
+http://xtv.ooo:8080/Sehrish/12345/245930
+
+#EXTINF:-2 tvg-logo="https://i.ibco/6vFtCpN/20240430-230414.png"group-title="BANGLADASHI CHANNEL", BTV WORLD
 http://xtv.ooo:8080/Sehrish/12345/245922
 
-#EXTINF:-2 tvg-logo="https://i.ibb.co/6vFtCpN/20240430-230414.png"group-title="BANGLADASHI CHANNEL", BTV WORLD
-http://xtv.ooo:8080/Sehrish/12345/245922
-
-#EXTINF:-3 tvg-logo="https://i.ibb.co/tPf72jk/20240502-081709.png"group-title="BANGLADASHI CHANNEL", SANGSAD TV
+#EXTINF:-3 tvg-logo="https:i.ibb.co/tPf72jk/20240502-081709.png"group-title="BANGLADASHI CHANNEL", SANGSAD TV
 http://xtv.ooo:8080/Sehrish/12345/245893
 
 #EXTINF:-4 tvg-logo="https://i.ibb.co/JdBx7PM/20240430-222409.png"group-title="BANGLADASHI CHANNEL", ATN BANGLA
 http://xtv.ooo:8080/Sehrish/12345/245909
 
-#EXTINF:-5 tvg-logo="https://i.ibb.co/zQz55FS/20240430-224358.png"group-title="BANGLADASHI CHANNEL", CHANNEL I
+#EXTINF:-5 tvg-logo="https://i.ibb.czQz55FS/20240430-224358.png"group-title="BANGLADASHI CHANNEL", CHANNEL I
+https://sonyliv.arcreation.xyz/live-tv/base.php?id=11910
 
-
-#EXTINF:-6 tvg-logo="https://i.ibb.co/r6gfJRm/20240430-214150.png"group-title="BANGLADASHI CHANNEL", CHANNEL I HD
+#EXTINF:-6 tvg-logo="https://i.ibb.cr6gfJRm/20240430-214150.png"group-title="BANGLADASHI CHANNEL", CHANNEL I HD
 http://xtv.ooo:8080/Sehrish/12345/245913
 
-#EXTINF:-7 tvg-logo="https://i.ibb.co/Z6Rm7R8/20240430-203613.png"group-title="BANGLADASHI CHANNEL", EKUSHEY TV
+#EXTINF:-7 tvg-logo="https://i.ibb.co/Z6Rm8/20240430-203613.png"group-title="BANGLADASHI CHANNEL", EKUSHEY TV
 
 
-#EXTINF:-8 tvg-logo="https://i.ibb.co/12C2XH0/20240430-225631.png"group-title="BANGLADASHI CHANNEL", NTV
+#EXTINF:-8 tvg-logo="https://i.ibbo/12C2XH0/20240430-225631.png"group-title="BANGLADASHI CHANNEL", NTV
+https://sonyliv.arcreation.xyz/live-tv/base.php?id=11856
+
+#EXTINF:-9 tvg-logo="https://i.ibb.co/0sWFX/20240430-230259.png"group-title="BANGLADASHI CHANNEL", RTV HD
+http://xtv.ooo:8080/Sehrish/12345/245911
+
+#EXTINF:-10 tvg-logo="https://i.ibb.co/1zHVN/20240430-225442.png"group-title="BANGLADASHI CHANNEL", BOISHAKHI TV HD
+http://xtv.ooo:8080/Sehrish/12345/245923
+
+#EXTINF:-11 tvg-logo="https://i.ibb.co/Z2sQw/20240430-204538.png"group-title="BANGLADASHI CHANNEL", BANGLA VISHON HD
+
+
+#EXTINF:-12 tvg-logo="https://i.ibb.co/pWPHq/20240430-220825.png"group-title="BANGLADASHI CHANNEL", DESH TV
+https://sonyliv.arcreation.xyz/live-tv/base.php?id=11904
+
+#EXTINF:-13 tvg-logo="https://i.ibb.co/ctxV1Vb0240430-230619.png"group-title="BANGLADASHI CHANNEL", MY TV
+
+
+#EXTINF:-14 tvg-logo="https://i.ibb.co/HPzXT620240430-225138.png"group-title="BANGLADASHI CHANNEL", MY TV HD
 http://xtv.ooo:8080/Sehrish/12345/245893
 
-#EXTINF:-9 tvg-logo="https://i.ibb.co/7R0sWFX/20240430-230259.png"group-title="BANGLADASHI CHANNEL", RTV HD
+#EXTINF:-15 tvg-logo="https://i.ibb.co/ZZLW4/20240502-080326.png"group-title="BANGLADASHI CHANNEL", MOHONA TV 
+http://xtv.ooo:8080/Sehrish/12345/245920
+
+#EXTINF:-16 tvg-logo="https/i.ibb.co/XtRysC3/20240430-205239.png"group-title="BANGLADASHI CHANNEL", BIJOY TV
+
+
+#EXTINF:-17 tvg-logo="https://ibb.co/HrGXhTN/20240501-215548.png"group-title="BANGLADASHI CHANNEL", THE CHANNEL TV
 http://xtv.ooo:8080/Sehrish/12345/245893
 
-#EXTINF:-10 tvg-logo="https://i.ibb.co/1JRzHVN/20240430-225442.png"group-title="BANGLADASHI CHANNEL", BOISHAKHI TV HD
-http://xtv.ooo:8080/Sehrish/12345/245893
+#EXTINF:-18 tvg-logo="https://ibb.co/f4vV2Lm/20240502-081845.png"group-title="BANGLADASHI CHANNEL", SOMOY TV
+http://xtv.ooo:8080/Sehrish/12345/245925
 
-#EXTINF:-11 tvg-logo="https://i.ibb.co/Z2bWsQw/20240430-204538.png"group-title="BANGLADASHI CHANNEL", BANGLA VISHON HD
-http://xtv.ooo:8080/Sehrish/12345/245893
+#EXTINF:-19 tvg-logo="https://ibb.co/c6QQddD/20240430-230216.png"group-title="BANGLADASHI CHANNEL", INDEPENDET NEWS
+http://xtv.ooo:8080/Sehrish/12345/245916
 
-#EXTINF:-12 tvg-logo="https://i.ibb.co/pWPH54q/20240430-220825.png"group-title="BANGLADASHI CHANNEL", DESH TV
-http://xtv.ooo:8080/Sehrish/12345/245893
+#EXTINF:-20 tvg-logo="https://i.b.co/hW2BJCL/20240430-224258.png"group-title="BANGLADASHI CHANNEL", MAASRANGA HD
+https://sonyliv.arcreation.xyz/live-tv/base.php?id=19827
 
-#EXTINF:-13 tvg-logo="https://i.ibb.co/ctxV1Vb/20240430-230619.png"group-title="BANGLADASHI CHANNEL", MY TV
-http://xtv.ooo:8080/Sehrish/12345/245893
+#EXTINF:-21 tvg-logo="https://ibb.co/8BJBdCT/20240430-204621.png"group-title="BANGLADASHI CHANNEL", CHANNEL 9 HD
+https://sonyliv.arcreation.xyz/live-tv/base.php?id=11940
 
-#EXTINF:-14 tvg-logo="https://i.ibb.co/HPzXT65/20240430-225138.png"group-title="BANGLADASHI CHANNEL", MY TV HD
-http://xtv.ooo:8080/Sehrish/12345/245893
+#EXTINF:-22 tvg-logo="https://ibb.co/vwDmy0x/20240430-224216.png"group-title="BANGLADASHI CHANNEL", CHANNEL 24 HD
+https://sonyliv.arcreation.xyz/live-tv/base.php?id=11913
 
-#EXTINF:-15 tvg-logo="https://i.ibb.co/ZmBZLW4/20240502-080326.png"group-title="BANGLADASHI CHANNEL", MOHONA TV 
-http://xtv.ooo:8080/Sehrish/12345/245893
+#EXTINF:-23 tvg-logo="https://i.b.co/CVxh3xP/20240501-123703.png"group-title="BANGLADASHI CHANNEL", GAZI TV HD
+http://xtv.ooo:8080/Sehrish/12345/245901
 
-#EXTINF:-16 tvg-logo="https://i.ibb.co/XtRysC3/20240430-205239.png"group-title="BANGLADASHI CHANNEL", BIJOY TV
-http://xtv.ooo:8080/Sehrish/12345/245893
+#EXTINF:-24 tvg-logo="https://i.ibb./MfpdKgb/20240502-081921.png"group-title="BANGLADASHI CHANNEL", EKATTOR TV HD
+https://sonyliv.arcreation.xyz/live-tv/base.php?id=11901
 
-#EXTINF:-17 tvg-logo="https://i.ibb.co/HrGXhTN/20240501-215548.png"group-title="BANGLADASHI CHANNEL", THE CHANNEL TV
-http://xtv.ooo:8080/Sehrish/12345/245893
-
-#EXTINF:-18 tvg-logo="https://i.ibb.co/f4vV2Lm/20240502-081845.png"group-title="BANGLADASHI CHANNEL", SOMOY TV
-http://xtv.ooo:8080/Sehrish/12345/245893
-
-#EXTINF:-19 tvg-logo="https://i.ibb.co/c6QQddD/20240430-230216.png"group-title="BANGLADASHI CHANNEL", INDEPENDET NEWS
-http://xtv.ooo:8080/Sehrish/12345/245893
-
-#EXTINF:-20 tvg-logo="https://i.ibb.co/hW2BJCL/20240430-224258.png"group-title="BANGLADASHI CHANNEL", MAASRANGA HD
-http://xtv.ooo:8080/Sehrish/12345/245893
-
-#EXTINF:-21 tvg-logo="https://i.ibb.co/8BJBdCT/20240430-204621.png"group-title="BANGLADASHI CHANNEL", CHANNEL 9 HD
-http://xtv.ooo:8080/Sehrish/12345/245893
-
-#EXTINF:-22 tvg-logo="https://i.ibb.co/vwDmy0x/20240430-224216.png"group-title="BANGLADASHI CHANNEL", CHANNEL 24 HD
-http://xtv.ooo:8080/Sehrish/12345/245893
-
-#EXTINF:-23 tvg-logo="https://i.ibb.co/CVxh3xP/20240501-123703.png"group-title="BANGLADASHI CHANNEL", GAZI TV HD
-http://xtv.ooo:8080/Sehrish/12345/245893
-
-#EXTINF:-24 tvg-logo="https://i.ibb.co/MfpdKgb/20240502-081921.png"group-title="BANGLADASHI CHANNEL", EKATTOR TV HD
-http://xtv.ooo:8080/Sehrish/12345/245893
-
-#EXTINF:-25 tvg-logo="https://i.ibb.co/4SByrGM/20240430-214246.png"group-title="BANGLADASHI CHANNEL", ASIAN TV
-http://xtv.ooo:8080/Sehrish/12345/245893
+#EXTINF:-25 tvg-logo="https://i.ibb.co/ByrGM/20240430-214246.png"group-title="BANGLADASHI CHANNEL", ASIAN TV
+http://xtv.ooo:8080/Sehrish/12345/245908
 
 #EXTINF:-26 tvg-logo="https://i.ibb.co/93pbgvm/20240430-224027.png"group-title="BANGLADASHI CHANNEL", GAAN BANGLA HD
-http://xtv.ooo:8080/Sehrish/12345/245893
+https://sonyliv.arcreation.xyz/live-tv/base.php?id=11895
 
 #EXTINF:-27 tvg-logo="https://i.ibb.co/J5gD69K/20240430-223824.png"group-title="BANGLADASHI CHANNEL", JAMUNA TV
-http://xtv.ooo:8080/Sehrish/12345/245893
+https://sonyliv.arcreation.xyz/live-tv/base.php?id=11868
 
 #EXTINF:-28 tvg-logo="https://i.ibb.co/dmN0kbX/20240502-082344.png"group-title="BANGLADASHI CHANNEL", DEEPTO TV HD
-http://xtv.ooo:8080/Sehrish/12345/245893
+https://sonyliv.arcreation.xyz/live-tv/base.php?id=11907
 
 #EXTINF:-29 tvg-logo="https://i.ibb.co/7GVR9Xq/20240430-204819.png"group-title="BANGLADASHI CHANNEL", DBC NEWS HD
-http://xtv.ooo:8080/Sehrish/12345/245893
+http://xtv.ooo:8080/Sehrish/12345/245914
 
 #EXTINF:-30 tvg-logo="https://i.ibb.co/xfL3fPs/20240502-080204.png"group-title="BANGLADASHI CHANNEL", NEWS 24 HD
-http://xtv.ooo:8080/Sehrish/12345/245893
+
 
 #EXTINF:-31 tvg-logo="https://i.ibb.co/mN72Qq4/20240502-080449.png"group-title="BANGLADASHI CHANNEL", BANGLA TV
-http://xtv.ooo:8080/Sehrish/12345/245893
+http://xtv.ooo:8080/Sehrish/12345/245910
 
 #EXTINF:-32 tvg-logo="https://i.ibb.co/MR7qh91/20240502-081814.png"group-title="BANGLADASHI CHANNEL", NAGORIK TV
-http://xtv.ooo:8080/Sehrish/12345/245893
+https://sonyliv.arcreation.xyz/live-tv/base.php?id=19811
 
 #EXTINF:-33 tvg-logo="https://i.ibb.co/5RctSXS/20240430-225926.png"group-title="BANGLADASHI CHANNEL", ANANDA TV
-http://xtv.ooo:8080/Sehrish/12345/245893
+https://sonyliv.arcreation.xyz/live-tv/base.php?id=11928
 
 #EXTINF:-34 tvg-logo="https://i.ibb.co/6mR5D5h/20240430-223643.png"group-title="BANGLADASHI CHANNEL", BONGO MOVE
 http://xtv.ooo:8080/Sehrish/12345/245893
 
 #EXTINF:-35 tvg-logo="https://i.ibb.co/KN6LvrQ/20240430-223405.png"group-title="BANGLADASHI CHANNEL", MOVE BANGLA
-http://xtv.ooo:8080/Sehrish/12345/245893
+
 
 #EXTINF:-36 tvg-logo="https://i.ibb.co/PFBW03S/20240430-223307.png"group-title="BANGLADASHI CHANNEL", NEXUS TV
-http://xtv.ooo:8080/Sehrish/12345/245893
+https://sonyliv.arcreation.xyz/live-tv/base.php?id=19799
 
 #EXTINF:-37 tvg-logo="https://i.ibb.co/TWkfx37/20240430-223232.png"group-title="BANGLADASHI CHANNEL", EKHONE TV
-http://xtv.ooo:8080/Sehrish/12345/245893
+
 
 #EXTINF:-38 tvg-logo="https://i.ibb.co/TMPnrH5/20240430-203652.png"group-title="BANGLADASHI CHANNEL", GLOBAL TV HD
-http://xtv.ooo:8080/Sehrish/12345/245893
+https://sonyliv.arcreation.xyz/live-tv/base.php?id=19803
 
 #EXTINF:-39 tvg-logo="https://i.ibb.co/PxMNdpn/20240430-223107.png"group-title="INDIAN BANGLA CHANNEL", KHUSHBOO BANGLA
-http://xtv.ooo:8080/Sehrish/12345/245893
+
 
 #EXTINF:-40 tvg-logo="https://i.ibb.co/Z166NTb/20240501-033530.png"group-title="INDIAN BANGLA CHANNEL", STAR JALSA
-http://xtv.ooo:8080/Sehrish/12345/245893
+https://sonyliv.arcreation.xyz/live-tv/base.php?id=11952
 
 #EXTINF:-41 tvg-logo="https://i.ibb.co/Vj0ZD0s/20240502-082838.png"group-title="INDIAN BANGLA CHANNEL", STAR JALSA HD
-http://xtv.ooo:8080/Sehrish/12345/245893
+http://xtv.ooo:8080/Sehrish/12345/245898
 
 #EXTINF:-42 tvg-logo="https://i.ibb.co/FBcLyc2/20240430-224633.png"group-title="INDIAN BANGLA CHANNEL", ZEE BANGLA
-http://xtv.ooo:8080/Sehrish/12345/245893
+
 
 #EXTINF:-43 tvg-logo="https://i.ibb.co/CJWbJbT/20240430-224659.png"group-title="INDIAN BANGLA CHANNEL", ZEE BANGLA HD
 http://xtv.ooo:8080/Sehrish/12345/245893
 
 #EXTINF:-44 tvg-logo="https://i.ibb.co/Sd10GBD/20240430-225748.png"group-title="INDIAN BANGLA CHANNEL", COLORS BANGLA
-http://xtv.ooo:8080/Sehrish/12345/245893
+https://sonyliv.arcreation.xyz/live-tv/base.php?id=11946
 
 #EXTINF:-45 tvg-logo="https://i.ibb.co/PgPmyN4/20240430-225823.png"group-title="INDIAN BANGLA CHANNEL", COLORS BANGLA HD
-https://sonyliv.arcreation.xyz/live-tv/base.php?id=11949
+
 
 #EXTINF:-46 tvg-logo="https://i.ibb.co/VxM2Wyh/20240430-224553.png"group-title="INDIAN BANGLA CHANNEL", COLORS BANGLA CINEMA
-http://xtv.ooo:8080/Sehrish/12345/245893
+http://xtv.ooo:8080/Sehrish/12345/245895
 
 #EXTINF:-47 tvg-logo="https://i.ibb.co/bsr2Qbt/20240430-203845.png"group-title="INDIAN BANGLA CHANNEL", SONY AATH
-http://xtv.ooo:8080/Sehrish/12345/245893
+
 
 #EXTINF:-48 tvg-logo="https://i.ibb.co/TYNcCWk/20240502-075015.png"group-title="INDIAN BANGLA CHANNEL", JALSA MOVIS
-http://xtv.ooo:8080/Sehrish/12345/245893
+
 
 #EXTINF:-49 tvg-logo="https://i.ibb.co/b67Hjsq/20240430-203751.png"group-title="INDIAN BANGLA CHANNEL", JALSA MOVIS HD
-http://xtv.ooo:8080/Sehrish/12345/245893
+http://xtv.ooo:8080/Sehrish/12345/245900
 
 #EXTINF:-50 tvg-logo="https://i.ibb.co/bXGzqnM/20240430-225254.png"group-title="INDIAN BANGLA CHANNEL", ZEE BANGLA CINEMA
-http://xtv.ooo:8080/Sehrish/12345/245893
+http://xtv.ooo:8080/Sehrish/12345/245897
 
 #EXTINF:-51 tvg-logo="https://i.ibb.co/H7XLf25/20240430-230020.png"group-title="INDIAN BANGLA CHANNEL", ENTEER TEN BANGLA
-http://xtv.ooo:8080/Sehrish/12345/245893
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 #EXTINF:-52 tvg-logo="https://i.ibb.co/hyXg1KJ/20240430-223151.png"group-title="INDIAN BANGLA CHANNEL", SUN BANGLA
-http://xtv.ooo:8080/Sehrish/12345/245893
+http://xtv.ooo:8080/Sehrish/12345/245906
 
 #EXTINF:-53 tvg-logo="https://i.ibb.co/3v0dcsL/20240430-223015.png"group-title="INDIAN BANGLA CHANNEL", AAKASH AATH
-http://xtv.ooo:8080/Sehrish/12345/245893
+http://xtv.ooo:8080/Sehrish/12345/245928
 
 #EXTINF:-54 tvg-logo="https://i.ibb.co/PMmsgXk/20240430-223456.png"group-title="INDIAN BANGLA CHANNEL", SANAND TV
-http://xtv.ooo:8080/Sehrish/12345/245893
+
 
 #EXTINF:-55 tvg-logo="https://i.ibb.co/SKrtm3p/20240430-223555.png"group-title="INDIAN BANGLA CHANNEL", GOLDMINES BANGLA
 http://xtv.ooo:8080/Sehrish/12345/245893
 
 #EXTINF:-56 tvg-logo="https://i.ibb.co/Fbt7bqk/20240502-083436.png"group-title="KIDS CHANNEL", DURONTO TV
-http://xtv.ooo:8080/Sehrish/12345/245893
+
 
 #EXTINF:-57 tvg-logo="https://i.ibb.co/Z6f6mYG/20240430-205000.png"group-title="KIDS CHANNEL", NICKELODEON 
 http://xtv.ooo:8080/Sehrish/12345/245893
