@@ -1,25 +1,25 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bc71zKf/20240430-205101.png"group-title="BANGLADASHI CHANNEL", BTV HD
-http://xtv.ooo:8080/Sehrish/12345/245893
+http://xtv.ooo:8080/Sehrish/12345/245922
 
 #EXTINF:-2 tvg-logo="https://i.ibb.co/6vFtCpN/20240430-230414.png"group-title="BANGLADASHI CHANNEL", BTV WORLD
-http://xtv.ooo:8080/Sehrish/12345/245893
+http://xtv.ooo:8080/Sehrish/12345/245922
 
 #EXTINF:-3 tvg-logo="https://i.ibb.co/tPf72jk/20240502-081709.png"group-title="BANGLADASHI CHANNEL", SANGSAD TV
 http://xtv.ooo:8080/Sehrish/12345/245893
 
 #EXTINF:-4 tvg-logo="https://i.ibb.co/JdBx7PM/20240430-222409.png"group-title="BANGLADASHI CHANNEL", ATN BANGLA
-https://vodmprod-cdn.toffeelive.com/d6155f212e0a387ce5ba5e8c29e49136/576/sub_index.m3u8
+http://xtv.ooo:8080/Sehrish/12345/245909
 
 #EXTINF:-5 tvg-logo="https://i.ibb.co/zQz55FS/20240430-224358.png"group-title="BANGLADASHI CHANNEL", CHANNEL I
-http://xtv.ooo:8080/Sehrish/12345/245893
+
 
 #EXTINF:-6 tvg-logo="https://i.ibb.co/r6gfJRm/20240430-214150.png"group-title="BANGLADASHI CHANNEL", CHANNEL I HD
-http://xtv.ooo:8080/Sehrish/12345/245893
+http://xtv.ooo:8080/Sehrish/12345/245913
 
 #EXTINF:-7 tvg-logo="https://i.ibb.co/Z6Rm7R8/20240430-203613.png"group-title="BANGLADASHI CHANNEL", EKUSHEY TV
-http://xtv.ooo:8080/Sehrish/12345/245893
+
 
 #EXTINF:-8 tvg-logo="https://i.ibb.co/12C2XH0/20240430-225631.png"group-title="BANGLADASHI CHANNEL", NTV
 http://xtv.ooo:8080/Sehrish/12345/245893
